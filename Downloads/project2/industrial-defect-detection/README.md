@@ -23,8 +23,6 @@ phone doing any AI processing and without any cloud service or internet dependen
 - [Applications](#applications)
 - [Limitations](#limitations)
 - [Future Scope](#future-scope)
-- [Author](#author)
-- [License](#license)
 
 ---
 
@@ -244,11 +242,3 @@ phone for a fixed industrial camera, and adding:
 - Product/batch tracking
 - Conveyor-belt + Arduino/ESP32 reject-arm prototype
 - Edge deployment (e.g. exporting to ONNX/TensorRT for a dedicated inspection PC)
-
-## Author
-
-**Hemin Vora**
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
